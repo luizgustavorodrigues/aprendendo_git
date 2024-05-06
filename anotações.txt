@@ -25,6 +25,15 @@ $git push //enviar
 $git push --set-upstream origin main -f // força o push
 
 
+SEQUENCIA
+$git add <nome do arquivo> OU * PARA PEGAR TODOS ARQUIVOS MODIFICADOS
+$git commit -m"Mensagem de versionamento"
+$git push ou $git push -f para forçar
+
+
+
+
+
 
 
 
