@@ -1,0 +1,16 @@
+#Iniciando repositorio git - Comando responsavel por iniciar um repositorio local na maquina
+$git init
+
+
+#Retorna o status atual do projeto, se precisar fazer commit etc
+$git status
+
+
+#Branch são pacotes
+
+#Comando para traquear o arquivo, colocar na stage
+$git add <nome do arquivo>
+$git add * // Vai pegar todos os aquivos e addciona
+
+#Commit - Gerar um versionamento do arquivo
+$git commit -m"meu primeiro commit"
