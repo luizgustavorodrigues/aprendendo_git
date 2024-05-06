@@ -1,3 +1,5 @@
+https://www.udemy.com/course/git-para-iniciantes/
+
 #Iniciando repositorio git - Comando responsavel por iniciar um repositorio local na maquina
 $git init
 
@@ -14,3 +16,20 @@ $git add * // Vai pegar todos os aquivos e addciona
 
 #Commit - Gerar um versionamento do arquivo
 $git commit -m"meu primeiro commit"
+
+#Git Remote - Conecta com servidor
+$git remote add origin https://github.com/luizgustavorodrigues/aprendendo_git.git
+$git remote
+$git push --set-upstream origin main // conectar com servidor
+$git push //enviar
+$git push --set-upstream origin main -f // força o push
+
+
+
+
+
+
+
+
+excluir repositorio no github
+https://docs.github.com/pt/repositories/creating-and-managing-repositories/deleting-a-repository
